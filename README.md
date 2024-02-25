@@ -1,4 +1,4 @@
-<h1 align="center">Every he Dangers in My Heart Frame in Order BOT</h1>
+<h1 align="center">Every The Dangers in My Heart Frame in Order BOT</h1>
 
 <div align="center">
 
