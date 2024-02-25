@@ -1,4 +1,4 @@
-name: "Sample Bot"
+name: "Bot"
 on:
   workflow_run:
     workflows: [init banner]
