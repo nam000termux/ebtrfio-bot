@@ -10,7 +10,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  Nijika-Chan:
+  anna-yamada:
     runs-on: ubuntu-latest
     if: ${{ github.triggering_actor == github.repository_owner }}
     steps:
