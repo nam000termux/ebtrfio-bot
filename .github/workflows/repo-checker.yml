@@ -6,6 +6,7 @@ on:
       - 'fb/frameiterator'
       - 'frames/**'
       - 'fb/**.ass'
+      - 'fb/**.srt'
       - 'config.conf'
   pull_request:
   workflow_dispatch:
