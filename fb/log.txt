@@ -39,3 +39,13 @@
 [√] Frame: 43, Episode 01 https://facebook.com/122109768968217881
 [√] Frame: 44, Episode 01 https://facebook.com/122109772466217881
 [√] Frame: 45, Episode 01 https://facebook.com/122109777308217881
+[√] Frame: 46, Episode 01 https://facebook.com/122109846392217881
+[√] Frame: 47, Episode 01 https://facebook.com/122109851798217881
+[√] Frame: 48, Episode 01 https://facebook.com/122109855506217881
+[√] Frame: 49, Episode 01 https://facebook.com/122109859550217881
+[√] Frame: 50, Episode 01 https://facebook.com/122109862532217881
+[√] Frame: 51, Episode 01 https://facebook.com/122109865706217881
+[√] Frame: 52, Episode 01 https://facebook.com/122109869186217881
+[√] Frame: 53, Episode 01 https://facebook.com/122109873356217881
+[√] Frame: 54, Episode 01 https://facebook.com/122109877544217881
+[√] Frame: 55, Episode 01 https://facebook.com/122109892850217881
