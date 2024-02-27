@@ -179,3 +179,13 @@
 [√] Frame: 183, Episode 01 https://facebook.com/122111159048217881
 [√] Frame: 184, Episode 01 https://facebook.com/122111161910217881
 [√] Frame: 185, Episode 01 https://facebook.com/122111166980217881
+[√] Frame: 186, Episode 01 https://facebook.com/122111238140217881
+[√] Frame: 187, Episode 01 https://facebook.com/122111240972217881
+[√] Frame: 188, Episode 01 https://facebook.com/122111244344217881
+[√] Frame: 189, Episode 01 https://facebook.com/122111246834217881
+[√] Frame: 190, Episode 01 https://facebook.com/122111249102217881
+[√] Frame: 191, Episode 01 https://facebook.com/122111253530217881
+[√] Frame: 192, Episode 01 https://facebook.com/122111256650217881
+[√] Frame: 193, Episode 01 https://facebook.com/122111259278217881
+[√] Frame: 194, Episode 01 https://facebook.com/122111262296217881
+[√] Frame: 195, Episode 01 https://facebook.com/122111265350217881
