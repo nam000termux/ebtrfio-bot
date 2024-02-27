@@ -129,3 +129,13 @@
 [√] Frame: 133, Episode 01 https://facebook.com/122110615712217881
 [√] Frame: 134, Episode 01 https://facebook.com/122110618892217881
 [√] Frame: 135, Episode 01 https://facebook.com/122110620812217881
+[√] Frame: 136, Episode 01 https://facebook.com/122110675022217881
+[√] Frame: 137, Episode 01 https://facebook.com/122110678556217881
+[√] Frame: 138, Episode 01 https://facebook.com/122110680794217881
+[√] Frame: 139, Episode 01 https://facebook.com/122110684526217881
+[√] Frame: 140, Episode 01 https://facebook.com/122110690358217881
+[√] Frame: 141, Episode 01 https://facebook.com/122110693736217881
+[√] Frame: 142, Episode 01 https://facebook.com/122110707854217881
+[√] Frame: 143, Episode 01 https://facebook.com/122110710602217881
+[√] Frame: 144, Episode 01 https://facebook.com/122110712930217881
+[√] Frame: 145, Episode 01 https://facebook.com/122110718156217881
