@@ -89,3 +89,13 @@
 [√] Frame: 93, Episode 01 https://facebook.com/122110291670217881
 [√] Frame: 94, Episode 01 https://facebook.com/122110293200217881
 [√] Frame: 95, Episode 01 https://facebook.com/122110294622217881
+[√] Frame: 96, Episode 01 https://facebook.com/122110347566217881
+[√] Frame: 97, Episode 01 https://facebook.com/122110349702217881
+[√] Frame: 98, Episode 01 https://facebook.com/122110352078217881
+[√] Frame: 99, Episode 01 https://facebook.com/122110354484217881
+[√] Frame: 100, Episode 01 https://facebook.com/122110357508217881
+[√] Frame: 101, Episode 01 https://facebook.com/122110360400217881
+[√] Frame: 102, Episode 01 https://facebook.com/122110374134217881
+[√] Frame: 103, Episode 01 https://facebook.com/122110376336217881
+[√] Frame: 104, Episode 01 https://facebook.com/122110378580217881
+[√] Frame: 105, Episode 01 https://facebook.com/122110388672217881
