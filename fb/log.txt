@@ -279,3 +279,13 @@
 [√] Frame: 283, Episode 01 https://facebook.com/122112038030217881
 [√] Frame: 284, Episode 01 https://facebook.com/122112041006217881
 [√] Frame: 285, Episode 01 https://facebook.com/122112043814217881
+[√] Frame: 286, Episode 01 https://facebook.com/122112107792217881
+[√] Frame: 287, Episode 01 https://facebook.com/122112112298217881
+[√] Frame: 288, Episode 01 https://facebook.com/122112115232217881
+[√] Frame: 289, Episode 01 https://facebook.com/122112119708217881
+[√] Frame: 290, Episode 01 https://facebook.com/122112122384217881
+[√] Frame: 291, Episode 01 https://facebook.com/122112126404217881
+[√] Frame: 292, Episode 01 https://facebook.com/122112131672217881
+[√] Frame: 293, Episode 01 https://facebook.com/122112139130217881
+[√] Frame: 294, Episode 01 https://facebook.com/122112143288217881
+[√] Frame: 295, Episode 01 https://facebook.com/122112148064217881
