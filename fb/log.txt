@@ -219,3 +219,13 @@
 [√] Frame: 223, Episode 01 https://facebook.com/122111532368217881
 [√] Frame: 224, Episode 01 https://facebook.com/122111534276217881
 [√] Frame: 225, Episode 01 https://facebook.com/122111537012217881
+[√] Frame: 226, Episode 01 https://facebook.com/122111562332217881
+[√] Frame: 227, Episode 01 https://facebook.com/122111564474217881
+[√] Frame: 228, Episode 01 https://facebook.com/122111566358217881
+[√] Frame: 229, Episode 01 https://facebook.com/122111569760217881
+[√] Frame: 230, Episode 01 https://facebook.com/122111572304217881
+[√] Frame: 231, Episode 01 https://facebook.com/122111574914217881
+[√] Frame: 232, Episode 01 https://facebook.com/122111578106217881
+[√] Frame: 233, Episode 01 https://facebook.com/122111586818217881
+[√] Frame: 234, Episode 01 https://facebook.com/122111589512217881
+[√] Frame: 235, Episode 01 https://facebook.com/122111592098217881
