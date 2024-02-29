@@ -419,3 +419,13 @@
 [√] Frame: 423, Episode 01 https://facebook.com/122113427072217881
 [√] Frame: 424, Episode 01 https://facebook.com/122113429496217881
 [√] Frame: 425, Episode 01 https://facebook.com/122113433594217881
+[√] Frame: 426, Episode 01 https://facebook.com/122113510628217881
+[√] Frame: 427, Episode 01 https://facebook.com/122113513514217881
+[√] Frame: 428, Episode 01 https://facebook.com/122113516754217881
+[√] Frame: 429, Episode 01 https://facebook.com/122113519172217881
+[√] Frame: 430, Episode 01 https://facebook.com/122113523102217881
+[√] Frame: 431, Episode 01 https://facebook.com/122113527974217881
+[√] Frame: 432, Episode 01 https://facebook.com/122113531820217881
+[√] Frame: 433, Episode 01 https://facebook.com/122113535042217881
+[√] Frame: 434, Episode 01 https://facebook.com/122113537400217881
+[√] Frame: 435, Episode 01 https://facebook.com/122113542506217881
