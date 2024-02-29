@@ -389,3 +389,13 @@
 [√] Frame: 393, Episode 01 https://facebook.com/122113057046217881
 [√] Frame: 394, Episode 01 https://facebook.com/122113060244217881
 [√] Frame: 395, Episode 01 https://facebook.com/122113065410217881
+[√] Frame: 396, Episode 01 https://facebook.com/122113144022217881
+[√] Frame: 397, Episode 01 https://facebook.com/122113146800217881
+[√] Frame: 398, Episode 01 https://facebook.com/122113150316217881
+[√] Frame: 399, Episode 01 https://facebook.com/122113154804217881
+[√] Frame: 400, Episode 01 https://facebook.com/122113157612217881
+[√] Frame: 401, Episode 01 https://facebook.com/122113161026217881
+[√] Frame: 402, Episode 01 https://facebook.com/122113165304217881
+[√] Frame: 403, Episode 01 https://facebook.com/122113168100217881
+[√] Frame: 404, Episode 01 https://facebook.com/122113172414217881
+[√] Frame: 405, Episode 01 https://facebook.com/122113175750217881
