@@ -479,3 +479,13 @@
 [√] Frame: 483, Episode 01 https://facebook.com/122113975202217881
 [√] Frame: 484, Episode 01 https://facebook.com/122113977620217881
 [√] Frame: 485, Episode 01 https://facebook.com/122113980164217881
+[√] Frame: 486, Episode 01 https://facebook.com/122114037938217881
+[√] Frame: 487, Episode 01 https://facebook.com/122114039894217881
+[√] Frame: 488, Episode 01 https://facebook.com/122114042306217881
+[√] Frame: 489, Episode 01 https://facebook.com/122114045234217881
+[√] Frame: 490, Episode 01 https://facebook.com/122114051774217881
+[√] Frame: 491, Episode 01 https://facebook.com/122114055932217881
+[√] Frame: 492, Episode 01 https://facebook.com/122114057252217881
+[√] Frame: 493, Episode 01 https://facebook.com/122114059622217881
+[√] Frame: 494, Episode 01 https://facebook.com/122114061614217881
+[√] Frame: 495, Episode 01 https://facebook.com/122114063228217881
