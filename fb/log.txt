@@ -599,3 +599,13 @@
 [√] Frame: 603, Episode 01 https://facebook.com/122114869382217881
 [√] Frame: 604, Episode 01 https://facebook.com/122114871536217881
 [√] Frame: 605, Episode 01 https://facebook.com/122114872940217881
+[√] Frame: 606, Episode 01 https://facebook.com/122114902760217881
+[√] Frame: 607, Episode 01 https://facebook.com/122114905508217881
+[√] Frame: 608, Episode 01 https://facebook.com/122114906804217881
+[√] Frame: 609, Episode 01 https://facebook.com/122114908004217881
+[√] Frame: 610, Episode 01 https://facebook.com/122114909780217881
+[√] Frame: 611, Episode 01 https://facebook.com/122114911754217881
+[√] Frame: 612, Episode 01 https://facebook.com/122114914550217881
+[√] Frame: 613, Episode 01 https://facebook.com/122114919284217881
+[√] Frame: 614, Episode 01 https://facebook.com/122114922794217881
+[√] Frame: 615, Episode 01 https://facebook.com/122114924858217881
