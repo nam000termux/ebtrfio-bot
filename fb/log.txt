@@ -669,3 +669,13 @@
 [√] Frame: 673, Episode 01 https://facebook.com/122115300662217881
 [√] Frame: 674, Episode 01 https://facebook.com/122115302060217881
 [√] Frame: 675, Episode 01 https://facebook.com/122115303518217881
+[√] Frame: 676, Episode 01 https://facebook.com/122115331094217881
+[√] Frame: 677, Episode 01 https://facebook.com/122115332972217881
+[√] Frame: 678, Episode 01 https://facebook.com/122115335528217881
+[√] Frame: 679, Episode 01 https://facebook.com/122115336950217881
+[√] Frame: 680, Episode 01 https://facebook.com/122115338702217881
+[√] Frame: 681, Episode 01 https://facebook.com/122115340544217881
+[√] Frame: 682, Episode 01 https://facebook.com/122115341558217881
+[√] Frame: 683, Episode 01 https://facebook.com/122115342836217881
+[√] Frame: 684, Episode 01 https://facebook.com/122115344582217881
+[√] Frame: 685, Episode 01 https://facebook.com/122115346190217881
