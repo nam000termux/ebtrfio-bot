@@ -589,3 +589,13 @@
 [√] Frame: 593, Episode 01 https://facebook.com/122114816582217881
 [√] Frame: 594, Episode 01 https://facebook.com/122114818100217881
 [√] Frame: 595, Episode 01 https://facebook.com/122114820386217881
+[√] Frame: 596, Episode 01 https://facebook.com/122114858384217881
+[√] Frame: 597, Episode 01 https://facebook.com/122114859962217881
+[√] Frame: 598, Episode 01 https://facebook.com/122114861408217881
+[√] Frame: 599, Episode 01 https://facebook.com/122114862758217881
+[√] Frame: 600, Episode 01 https://facebook.com/122114864306217881
+[√] Frame: 601, Episode 01 https://facebook.com/122114865698217881
+[√] Frame: 602, Episode 01 https://facebook.com/122114867780217881
+[√] Frame: 603, Episode 01 https://facebook.com/122114869382217881
+[√] Frame: 604, Episode 01 https://facebook.com/122114871536217881
+[√] Frame: 605, Episode 01 https://facebook.com/122114872940217881
