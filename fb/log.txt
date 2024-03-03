@@ -789,3 +789,13 @@
 [√] Frame: 793, Episode 01 https://facebook.com/122115925394217881
 [√] Frame: 794, Episode 01 https://facebook.com/122115928010217881
 [√] Frame: 795, Episode 01 https://facebook.com/122115930134217881
+[√] Frame: 796, Episode 01 https://facebook.com/122115966458217881
+[√] Frame: 797, Episode 01 https://facebook.com/122115967574217881
+[√] Frame: 798, Episode 01 https://facebook.com/122115998672217881
+[√] Frame: 799, Episode 01 https://facebook.com/122116000130217881
+[√] Frame: 800, Episode 01 https://facebook.com/122116001492217881
+[√] Frame: 801, Episode 01 https://facebook.com/122116003496217881
+[√] Frame: 802, Episode 01 https://facebook.com/122116004480217881
+[√] Frame: 803, Episode 01 https://facebook.com/122116005560217881
+[√] Frame: 804, Episode 01 https://facebook.com/122116006574217881
+[√] Frame: 805, Episode 01 https://facebook.com/122116007600217881
