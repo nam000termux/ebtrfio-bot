@@ -759,3 +759,13 @@
 [√] Frame: 763, Episode 01 https://facebook.com/122115762668217881
 [√] Frame: 764, Episode 01 https://facebook.com/122115764498217881
 [√] Frame: 765, Episode 01 https://facebook.com/122115766694217881
+[√] Frame: 766, Episode 01 https://facebook.com/122115806150217881
+[√] Frame: 767, Episode 01 https://facebook.com/122115807914217881
+[√] Frame: 768, Episode 01 https://facebook.com/122115809786217881
+[√] Frame: 769, Episode 01 https://facebook.com/122115811952217881
+[√] Frame: 770, Episode 01 https://facebook.com/122115813272217881
+[√] Frame: 771, Episode 01 https://facebook.com/122115815858217881
+[√] Frame: 772, Episode 01 https://facebook.com/122115817742217881
+[√] Frame: 773, Episode 01 https://facebook.com/122115819398217881
+[√] Frame: 774, Episode 01 https://facebook.com/122115821198217881
+[√] Frame: 775, Episode 01 https://facebook.com/122115825050217881
