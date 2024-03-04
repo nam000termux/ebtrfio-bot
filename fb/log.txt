@@ -869,3 +869,13 @@
 [√] Frame: 873, Episode 01 https://facebook.com/122116408352217881
 [√] Frame: 874, Episode 01 https://facebook.com/122116410482217881
 [√] Frame: 875, Episode 01 https://facebook.com/122116413398217881
+[√] Frame: 876, Episode 01 https://facebook.com/122116424024217881
+[√] Frame: 877, Episode 01 https://facebook.com/122116425740217881
+[√] Frame: 878, Episode 01 https://facebook.com/122116428530217881
+[√] Frame: 879, Episode 01 https://facebook.com/122116430972217881
+[√] Frame: 880, Episode 01 https://facebook.com/122116433204217881
+[√] Frame: 881, Episode 01 https://facebook.com/122116435304217881
+[√] Frame: 882, Episode 01 https://facebook.com/122116440440217881
+[√] Frame: 883, Episode 01 https://facebook.com/122116445024217881
+[√] Frame: 884, Episode 01 https://facebook.com/122116447262217881
+[√] Frame: 885, Episode 01 https://facebook.com/122116450034217881
