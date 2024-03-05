@@ -999,3 +999,13 @@
 [√] Frame: 1003, Episode 01 https://facebook.com/122116999928217881
 [√] Frame: 1004, Episode 01 https://facebook.com/122117001398217881
 [√] Frame: 1005, Episode 01 https://facebook.com/122117002946217881
+[√] Frame: 1006, Episode 01 https://facebook.com/122117032676217881
+[√] Frame: 1007, Episode 01 https://facebook.com/122117034344217881
+[√] Frame: 1008, Episode 01 https://facebook.com/122117035526217881
+[√] Frame: 1009, Episode 01 https://facebook.com/122117036750217881
+[√] Frame: 1010, Episode 01 https://facebook.com/122117042972217881
+[√] Frame: 1011, Episode 01 https://facebook.com/122117044670217881
+[√] Frame: 1012, Episode 01 https://facebook.com/122117046098217881
+[√] Frame: 1013, Episode 01 https://facebook.com/122117050724217881
+[√] Frame: 1014, Episode 01 https://facebook.com/122117052032217881
+[√] Frame: 1015, Episode 01 https://facebook.com/122117053616217881
