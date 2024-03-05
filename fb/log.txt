@@ -1019,3 +1019,13 @@
 [√] Frame: 1023, Episode 01 https://facebook.com/122117092142217881
 [√] Frame: 1024, Episode 01 https://facebook.com/122117095226217881
 [√] Frame: 1025, Episode 01 https://facebook.com/122117097290217881
+[√] Frame: 1026, Episode 01 https://facebook.com/122117134382217881
+[√] Frame: 1027, Episode 01 https://facebook.com/122117135552217881
+[√] Frame: 1028, Episode 01 https://facebook.com/122117136878217881
+[√] Frame: 1029, Episode 01 https://facebook.com/122117142122217881
+[√] Frame: 1030, Episode 01 https://facebook.com/122117143214217881
+[√] Frame: 1031, Episode 01 https://facebook.com/122117147900217881
+[√] Frame: 1032, Episode 01 https://facebook.com/122117151266217881
+[√] Frame: 1033, Episode 01 https://facebook.com/122117154746217881
+[√] Frame: 1034, Episode 01 https://facebook.com/122117155760217881
+[√] Frame: 1035, Episode 01 https://facebook.com/122117157068217881
