@@ -979,3 +979,13 @@
 [√] Frame: 983, Episode 01 https://facebook.com/122116920068217881
 [√] Frame: 984, Episode 01 https://facebook.com/122116921574217881
 [√] Frame: 985, Episode 01 https://facebook.com/122116923212217881
+[√] Frame: 986, Episode 01 https://facebook.com/122116946180217881
+[√] Frame: 987, Episode 01 https://facebook.com/122116947920217881
+[√] Frame: 988, Episode 01 https://facebook.com/122116949126217881
+[√] Frame: 989, Episode 01 https://facebook.com/122116951052217881
+[√] Frame: 990, Episode 01 https://facebook.com/122116952612217881
+[√] Frame: 991, Episode 01 https://facebook.com/122116954298217881
+[√] Frame: 992, Episode 01 https://facebook.com/122116955636217881
+[√] Frame: 993, Episode 01 https://facebook.com/122116957532217881
+[√] Frame: 994, Episode 01 https://facebook.com/122116958726217881
+[√] Frame: 995, Episode 01 https://facebook.com/122116960082217881
