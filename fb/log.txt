@@ -1179,3 +1179,13 @@
 [√] Frame: 1183, Episode 01 https://facebook.com/122117763014217881
 [√] Frame: 1184, Episode 01 https://facebook.com/122117764208217881
 [√] Frame: 1185, Episode 01 https://facebook.com/122117766530217881
+[√] Frame: 1186, Episode 01 https://facebook.com/122117781692217881
+[√] Frame: 1187, Episode 01 https://facebook.com/122117783114217881
+[√] Frame: 1188, Episode 01 https://facebook.com/122117784446217881
+[√] Frame: 1189, Episode 01 https://facebook.com/122117785706217881
+[√] Frame: 1190, Episode 01 https://facebook.com/122117786870217881
+[√] Frame: 1191, Episode 01 https://facebook.com/122117787722217881
+[√] Frame: 1192, Episode 01 https://facebook.com/122117788622217881
+[√] Frame: 1193, Episode 01 https://facebook.com/122117789636217881
+[√] Frame: 1194, Episode 01 https://facebook.com/122117791130217881
+[√] Frame: 1195, Episode 01 https://facebook.com/122117792576217881
