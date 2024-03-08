@@ -1369,3 +1369,13 @@
 [√] Frame: 1373, Episode 01 https://facebook.com/122118466226217881
 [√] Frame: 1374, Episode 01 https://facebook.com/122118467810217881
 [√] Frame: 1375, Episode 01 https://facebook.com/122118469724217881
+[√] Frame: 1376, Episode 01 https://facebook.com/122118495194217881
+[√] Frame: 1377, Episode 01 https://facebook.com/122118496772217881
+[√] Frame: 1378, Episode 01 https://facebook.com/122118498638217881
+[√] Frame: 1379, Episode 01 https://facebook.com/122118499958217881
+[√] Frame: 1380, Episode 01 https://facebook.com/122118501026217881
+[√] Frame: 1381, Episode 01 https://facebook.com/122118502328217881
+[√] Frame: 1382, Episode 01 https://facebook.com/122118504368217881
+[√] Frame: 1383, Episode 01 https://facebook.com/122118505970217881
+[√] Frame: 1384, Episode 01 https://facebook.com/122118507704217881
+[√] Frame: 1385, Episode 01 https://facebook.com/122118509264217881
