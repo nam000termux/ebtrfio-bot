@@ -1519,3 +1519,13 @@
 [√] Frame: 1523, Episode 01 https://facebook.com/122119035974217881
 [√] Frame: 1524, Episode 01 https://facebook.com/122119037252217881
 [√] Frame: 1525, Episode 01 https://facebook.com/122119038116217881
+[√] Frame: 1526, Episode 01 https://facebook.com/122119057580217881
+[√] Frame: 1527, Episode 01 https://facebook.com/122119058618217881
+[√] Frame: 1528, Episode 01 https://facebook.com/122119059590217881
+[√] Frame: 1529, Episode 01 https://facebook.com/122119060442217881
+[√] Frame: 1530, Episode 01 https://facebook.com/122119061162217881
+[√] Frame: 1531, Episode 01 https://facebook.com/122119062362217881
+[√] Frame: 1532, Episode 01 https://facebook.com/122119062956217881
+[√] Frame: 1533, Episode 01 https://facebook.com/122119063574217881
+[√] Frame: 1534, Episode 01 https://facebook.com/122119064480217881
+[√] Frame: 1535, Episode 01 https://facebook.com/122119065236217881
