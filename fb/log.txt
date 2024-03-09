@@ -1439,3 +1439,13 @@
 [√] Frame: 1443, Episode 01 https://facebook.com/122118739736217881
 [√] Frame: 1444, Episode 01 https://facebook.com/122118741086217881
 [√] Frame: 1445, Episode 01 https://facebook.com/122118742190217881
+[√] Frame: 1446, Episode 01 https://facebook.com/122118761036217881
+[√] Frame: 1447, Episode 01 https://facebook.com/122118762236217881
+[√] Frame: 1448, Episode 01 https://facebook.com/122118763364217881
+[√] Frame: 1449, Episode 01 https://facebook.com/122118764042217881
+[√] Frame: 1450, Episode 01 https://facebook.com/122118764906217881
+[√] Frame: 1451, Episode 01 https://facebook.com/122118765938217881
+[√] Frame: 1452, Episode 01 https://facebook.com/122118767870217881
+[√] Frame: 1453, Episode 01 https://facebook.com/122118769574217881
+[√] Frame: 1454, Episode 01 https://facebook.com/122118770462217881
+[√] Frame: 1455, Episode 01 https://facebook.com/122118771596217881
