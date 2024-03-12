@@ -1789,3 +1789,13 @@
 [√] Frame: 1793, Episode 01 https://facebook.com/122119967990217881
 [√] Frame: 1794, Episode 01 https://facebook.com/122119968884217881
 [√] Frame: 1795, Episode 01 https://facebook.com/122119970162217881
+[√] Frame: 1796, Episode 01 https://facebook.com/122119985660217881
+[√] Frame: 1797, Episode 01 https://facebook.com/122119986578217881
+[√] Frame: 1798, Episode 01 https://facebook.com/122119987730217881
+[√] Frame: 1799, Episode 01 https://facebook.com/122119988576217881
+[√] Frame: 1800, Episode 01 https://facebook.com/122119989572217881
+[√] Frame: 1801, Episode 01 https://facebook.com/122119991090217881
+[√] Frame: 1802, Episode 01 https://facebook.com/122119992176217881
+[√] Frame: 1803, Episode 01 https://facebook.com/122119993028217881
+[√] Frame: 1804, Episode 01 https://facebook.com/122119994144217881
+[√] Frame: 1805, Episode 01 https://facebook.com/122119995188217881
