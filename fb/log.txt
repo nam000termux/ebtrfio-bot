@@ -2239,3 +2239,13 @@
 [√] Frame: 2243, Episode 01 https://facebook.com/122121436238217881
 [√] Frame: 2244, Episode 01 https://facebook.com/122121436868217881
 [√] Frame: 2245, Episode 01 https://facebook.com/122121438176217881
+[√] Frame: 2246, Episode 01 https://facebook.com/122121450440217881
+[√] Frame: 2247, Episode 01 https://facebook.com/122121451358217881
+[√] Frame: 2248, Episode 01 https://facebook.com/122121452798217881
+[√] Frame: 2249, Episode 01 https://facebook.com/122121453602217881
+[√] Frame: 2250, Episode 01 https://facebook.com/122121454580217881
+[√] Frame: 2251, Episode 01 https://facebook.com/122121455516217881
+[√] Frame: 2252, Episode 01 https://facebook.com/122121456476217881
+[√] Frame: 2253, Episode 01 https://facebook.com/122121457376217881
+[√] Frame: 2254, Episode 01 https://facebook.com/122121458390217881
+[√] Frame: 2255, Episode 01 https://facebook.com/122121459314217881
