@@ -2469,3 +2469,13 @@
 [√] Frame: 2473, Episode 01 https://facebook.com/122122207514217881
 [√] Frame: 2474, Episode 01 https://facebook.com/122122208762217881
 [√] Frame: 2475, Episode 01 https://facebook.com/122122209746217881
+[√] Frame: 2476, Episode 01 https://facebook.com/122122228262217881
+[√] Frame: 2477, Episode 01 https://facebook.com/122122229132217881
+[√] Frame: 2478, Episode 01 https://facebook.com/122122231430217881
+[√] Frame: 2479, Episode 01 https://facebook.com/122122232078217881
+[√] Frame: 2480, Episode 01 https://facebook.com/122122233026217881
+[√] Frame: 2481, Episode 01 https://facebook.com/122122233752217881
+[√] Frame: 2482, Episode 01 https://facebook.com/122122235024217881
+[√] Frame: 2483, Episode 01 https://facebook.com/122122235906217881
+[√] Frame: 2484, Episode 01 https://facebook.com/122122236782217881
+[√] Frame: 2485, Episode 01 https://facebook.com/122122237562217881
