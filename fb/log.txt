@@ -2419,3 +2419,13 @@
 [√] Frame: 2423, Episode 01 https://facebook.com/122121990086217881
 [√] Frame: 2424, Episode 01 https://facebook.com/122121992018217881
 [√] Frame: 2425, Episode 01 https://facebook.com/122121996170217881
+[√] Frame: 2426, Episode 01 https://facebook.com/122122017662217881
+[√] Frame: 2427, Episode 01 https://facebook.com/122122018556217881
+[√] Frame: 2428, Episode 01 https://facebook.com/122122019510217881
+[√] Frame: 2429, Episode 01 https://facebook.com/122122020590217881
+[√] Frame: 2430, Episode 01 https://facebook.com/122122022570217881
+[√] Frame: 2431, Episode 01 https://facebook.com/122122023986217881
+[√] Frame: 2432, Episode 01 https://facebook.com/122122025546217881
+[√] Frame: 2433, Episode 01 https://facebook.com/122122026506217881
+[√] Frame: 2434, Episode 01 https://facebook.com/122122027616217881
+[√] Frame: 2435, Episode 01 https://facebook.com/122122029878217881
